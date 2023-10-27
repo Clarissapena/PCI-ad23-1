@@ -19,3 +19,8 @@ Se le dará a elegir al usuario que elija un asiento del 1-30
 Dependiendo la opción que elija se le dará un precio 
 
 Se le agregara el precio correspondiente con el porcentaje del seguro
+
+# NOTAS DE REVALUACIÓN FINAL
+componente: usa la forma más a apropiada al problema para guardar los datos (listas, variable, tipo de dato, etc...) (avance 6 y avance 7)
+Separa el código en funciones pequeñas reusables, haciendo uso correcto de paso por parametros y return (avance 3)
+El estilo cumple con las normas y estándares enunciadas en el documento de PEP 8  (Revis[on y Final)
